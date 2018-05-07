@@ -1,0 +1,2 @@
+Remember to link lpthread lib 
+g++ main.cpp -lpthread
